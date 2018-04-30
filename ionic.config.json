@@ -1,0 +1,8 @@
+{
+  "name": "7.miscelaneos",
+  "app_id": "2585f5a2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
